@@ -4,12 +4,12 @@
 <head>  
     <title>HTML Redirect</title>  
     <meta http-equiv="refresh"
-        content="5; url = hhttp://www.horizontec.com/HES_Lexicon.php" />  
+        content="1; url = http://www.horizontec.com/HES_Lexicon.php" />  
 </head>  
   
 <body>  
     <h1 style="text-align:center;color:green;">  
-         HES-Gateway Lexicon  
+         HES-Gateway Lexicon 2 
     </h1>  
       
     <p style="text-align:center;">  
